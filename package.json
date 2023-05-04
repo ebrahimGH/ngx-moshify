@@ -1,6 +1,7 @@
 {
   "name": "moshify",
   "version": "0.0.0",
+  "homepage": "https://github.com/ebrahimgh/ngx-moshify#readme",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
